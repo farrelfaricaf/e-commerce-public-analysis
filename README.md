@@ -1,9 +1,12 @@
 # 🛒 Proyek Analisis Data: E-Commerce Public Dataset
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://e-commerce-public-analysis-farrel-farica-f.streamlit.app/)
+
 Proyek akhir analisis data menggunakan dataset publik e-commerce Brazil (Olist) dari Dicoding Indonesia (Kursus: **Belajar Analisis Data dengan Python**). Proyek ini mencakup proses data wrangling, exploratory data analysis (EDA), visualisasi data, analisis lanjutan RFM, kesimpulan bisnis, serta dashboard interaktif berbasis Streamlit.
 
 - **Nama:** Farrel Farica Firjaturazza
 - **ID Dicoding:** DS284B6Y0580
+- **Live Dashboard:** [e-commerce-public-analysis-farrel-farica-f.streamlit.app](https://e-commerce-public-analysis-farrel-farica-f.streamlit.app/)
 
 ---
 
