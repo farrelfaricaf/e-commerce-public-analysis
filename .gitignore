@@ -1,0 +1,7 @@
+# Abaikan url.txt agar hanya ada di lokal komputer dan berkas submission Dicoding (tidak masuk ke GitHub publik)
+url.txt
+
+# File temporary & cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
