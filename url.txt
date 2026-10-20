@@ -1,0 +1,2 @@
+https://e-commerce-public-analysis-farrel-farica-f.streamlit.app/
+https://github.com/farrelfaricaf/e-commerce-public-analysis
